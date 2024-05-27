@@ -11,6 +11,8 @@ Here we aim to help on 2 topics:
 ## Steps followed
 - Get all the data on several csv files. There are 11 files (dimensional files with data products and facts files with sales, orders and stock)
 - Create a star based model in order to link each database
+![alt text](https://github.com/ErwanMrcx/powerbi_sales_project/blob/main/pictures/star_model.jpg)
+
 - Developping the dashboard
 
 ## Questions

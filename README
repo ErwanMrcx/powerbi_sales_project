@@ -9,11 +9,13 @@ Here we aim to help on 2 topics:
 (One item that can not be order regulary will be overstock)
 
 ## Steps followed
--
+- Get all the data on several csv files. There are 11 files (dimensional files with data products and facts files with sales, orders and stock)
+- Create a star based model in order to link each database
+- Developping the dashboard
 
 ## Questions
-
-## Data
+- Where and when my products will be delivered. Is there any shipments that are stuck?
+- Whats are my sales for each departments, each stores? Is my sales are in adequation with my order and stock capacity?
 
 ## Dashboard
 
